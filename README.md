@@ -1,1 +1,1 @@
-# CanalDeStiri
+In this file, I have created a programme which links to a database called "stiri.db". It aims to check whether the id or the new is present into the database by using the Python script which I've wrote. 
